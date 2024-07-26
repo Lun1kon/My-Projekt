@@ -1,0 +1,136 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2;
+    background-color: #362214;
+}
+
+header {
+    background-color: #28190F;
+    color: #6B574A;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #939394;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 2rem;
+}
+
+footer {
+    background-color: #28190F;
+    color: #6B574A;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+
+
+.Aktion_obj {
+
+background-color: #000000;
+
+display:inline-block ;
+font-size: 25px;
+text-shadow: #362214;
+ color:  #ffffff;
+text-align: center;
+border: 5px; 
+border-color: #362214;
+border-radius: 20px;
+margin: 10px;
+}
+
+.photo {
+
+    height: 250px; ;
+    width: 250px;
+    border: 5px; 
+    border-color: #362214;
+    border-radius: 20px;
+
+}
+
+.sq {
+
+    background-color: #6B574A;
+}
+
+
+.sqs {
+
+    background-color: #6B574A;
+    font-family: fantasy;
+    color: bisque;
+
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: bisque;
+
+  }
+  
+
+
+
+/*Персонажи и настройка их страниц*/
+
+.Changli{
+    float: left;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2;
+    background-color: #362214;
+
+}
+
+ /*То что не входило в планы это все выделения определеных частей текста которые я додумался сделать только сейчас*/
+.Other{
+
+   
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+  
+}
+
+.FusionDMG {
+    color: #ff0000;
+}
+
+.text{
+    color: #ffffff;
+}
+
+.BA {
+color: #b9ffcb;
+
+}
